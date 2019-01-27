@@ -1,0 +1,3 @@
+Average time for 3 byte input: 9.5188850406 and average iterations: 2710501.6911070603
+Average time for 2 byte input: 0.0370044755 and average iterations: 2244644.705205996
+Average time for 1 byte input: 0.0016984684 and average iterations: 222082.43615247714
